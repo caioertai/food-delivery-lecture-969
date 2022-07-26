@@ -1,0 +1,5 @@
+id,name,insured,room_id
+1,paul,true,2
+2,ringo,true,2
+3,john,false,1
+4,paul,false,1
